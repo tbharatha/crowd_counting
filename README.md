@@ -1,7 +1,7 @@
 # Crowd Counting Using YOLOv3 and CSRNet
 
-![CSRNet Example](images/csrnet_output.png)
-![YOLOv3 Example](images/yolov3_output.png)
+![CSRNet Example](images/csrnet.png)
+![YOLOv3 Example](images/yolov3.png)
 
 This repository demonstrates the implementation and comparison of two models for crowd counting: **YOLOv3** (a general object detector) and **CSRNet** (a specialized crowd counting model). The project highlights the differences in performance and accuracy between the two models, especially in handling dense crowds.
 
