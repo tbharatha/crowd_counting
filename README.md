@@ -20,7 +20,7 @@ Below are sample outputs from both models applied to the same video:
 - **CSRNet**: Accurately estimates crowd density even in packed areas with significant overlap.
 
 #### YOLOv3 Output
-![YOLOv3 Example](images/yolov3png)
+![YOLOv3 Example](images/yolov3.png)
 
 #### CSRNet Output
 ![CSRNet Example](images/csrnet.png)
